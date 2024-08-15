@@ -1,0 +1,15 @@
+# Ignorar archivos de compilación
+*.o
+*.exe
+*.out
+
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de respaldo
+*~
